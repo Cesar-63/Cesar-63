@@ -1,16 +1,13 @@
-## Hi there 👋
+💫 About Me:
+🧑‍💻 Ingeniero Civil Informático • Magíster en Ciencias de la Computación
+Desarrollador Full Stack | Ciencia de Datos | Cloud
 
-<!--
-**Cesar-63/Cesar-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero Civil Informático con Magíster en Ciencias de la Computación, con experiencia en desarrollo de software, ciencia de datos, infraestructura cloud y ciberseguridad.
 
-Here are some ideas to get you started:
+Me gusta crear soluciones escalables, trabajar con datos, explorar herramientas cloud y mantenerme al día con tecnologías emergentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+C# HTML5 Java JavaScript Markdown LaTeX Python R AWS Azure Angular NodeJS React TailwindCSS AmazonDynamoDB MicrosoftSQLServer Postgres Arduino Postman Jira
